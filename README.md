@@ -1,0 +1,1 @@
+# dbdiag_inventory
